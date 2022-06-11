@@ -1,4 +1,4 @@
-# Checkpoint-I-Java
+# Checkpoint I Java POO
 
 ### O objetivo deste checkpoint é utilizar conceitos de orientação a objetos apresentados até o momento. Nesta primeira parte você deve enviar uma proposta descrevendo o cenário de aplicação, seu diagrama de classes e a sua implementação em Java.
 
